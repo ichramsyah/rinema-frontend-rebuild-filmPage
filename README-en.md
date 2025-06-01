@@ -6,6 +6,8 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+#### [README.md](README.md) bahasa Indonesia.
+
 This project is a modern rebuild of the film page from my original web application, **Rinema** (https://rinemaa.paramadina.ac.id/film), recreated as a React-based web app. It showcases a dynamic search and filter system for movies, leveraging real-time data from the Rinema API I developed. This portfolio piece highlights my skills in React development, state management, and the application of advanced design patterns and performance optimizations.
 
 ## Features

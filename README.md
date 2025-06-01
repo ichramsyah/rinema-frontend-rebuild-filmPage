@@ -6,6 +6,8 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
+#### [README.md](README-en.md) English Ver.
+
 Proyek ini adalah pembangunan ulang modern dari halaman film di aplikasi web buatan saya, **Rinema** (https://rinemaa.paramadina.ac.id/film), yang dibuat ulang sebagai aplikasi web berbasis React. Proyek ini menampilkan sistem pencarian dan filter dinamis untuk film, menggunakan data real-time dari API Rinema yang saya kembangkan. Portfolio ini menunjukkan kemampuan saya dalam pengembangan React, manajemen state, serta penerapan pola desain dan optimasi performa tingkat lanjut.
 
 ## Fitur
