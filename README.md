@@ -115,6 +115,15 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE.txt), yang memungkinkan p
 - Dibangun dan terinspirasi dari aplikasi web buatan saya, Rinema (https://rinemaa.paramadina.ac.id).
 - Data API bersumber dari API Rinema yang saya kembangkan.
 
+## Screenshot
+
+/Film
+![image](https://github.com/user-attachments/assets/a0acccde-0dc5-4103-93d7-87a229e253b0)
+
+/DetailFilm
+![image](https://github.com/user-attachments/assets/88347f26-f72d-41cf-aa8b-277b6c21d224)
+
+
 ## Rencana Peningkatan
 
 - Tambah pagination untuk daftar film yang panjang.
