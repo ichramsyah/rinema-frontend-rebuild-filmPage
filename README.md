@@ -8,7 +8,7 @@
 
 #### [README.md](README-en.md) English Ver.
 
-Proyek ini adalah pembangunan ulang modern dari halaman film di aplikasi web buatan saya, **Rinema** (https://rinemaa.paramadina.ac.id/film), yang dibuat ulang sebagai aplikasi web berbasis React. Proyek ini menampilkan sistem pencarian dan filter dinamis untuk film, menggunakan data real-time dari API Rinema yang saya kembangkan. Portfolio ini menunjukkan kemampuan saya dalam pengembangan React, manajemen state, serta penerapan pola desain dan optimasi performa tingkat lanjut.
+Proyek ini adalah pembangunan ulang modern dari halaman film di aplikasi web buatan saya, Rinema (https://rinemaa.paramadina.ac.id/film). Dibuat ulang sebagai aplikasi web berbasis React, proyek ini menampilkan sistem pencarian dan filter dinamis untuk film. Saat ini, proyek ini menggunakan data film dan genre lokal dari file JSON untuk simulasi API, memungkinkan pengembangan antarmuka yang cepat dan mandiri. Portfolio ini menunjukkan kemampuan saya dalam pengembangan React, manajemen state, serta penerapan pola desain dan optimasi performa tingkat lanjut.
 
 ## Fitur
 
@@ -16,7 +16,7 @@ Proyek ini adalah pembangunan ulang modern dari halaman film di aplikasi web bua
 - **Fungsi Pencarian**: Pencarian real-time berdasarkan judul dengan debounce untuk optimasi performa.
 - **Opsi Filter**: Urutkan berdasarkan "Semua Film", "Terbaru", "Terlama", atau "Populer", serta filter berdasarkan genre yang diurutkan secara alfabetis.
 - **Desain Responsif**: Dibangun dengan Tailwind CSS untuk antarmuka yang bersih dan ramah mobile.
-- **Integrasi API**: Mengambil data dari berbagai endpoint `/allFilm`, `/latest`, `/allGenre`, `/films/{film}` dari API Rinema buatan saya.
+- **Simulasi Data API Lokal**: Mengambil data dari file films.json dan genres.json lokal untuk simulasi respons API.
 - **Fitur Tampilkan Film**: Memungkinkan pengguna untuk mengklik film dan melihat informasi detail di halaman terpisah.
 
 ## Teknologi yang Digunakan
@@ -25,12 +25,12 @@ Proyek ini adalah pembangunan ulang modern dari halaman film di aplikasi web bua
 - **Axios**: Untuk permintaan API ke API Rinema.
 - **Tailwind CSS**: Untuk styling dengan pendekatan utility-first.
 - **Lodash**: Digunakan untuk fungsi debounce guna meningkatkan performa pencarian.
-- **Custom Hooks**: Mengemas logika untuk pengambilan dan penyaringan data.
+- **Custom Hooks**: Mengemas logika untuk pengambilan dan penyaringan data (`useSearchPosts` dan `useFilmDetail`).
 - **React Router DOM**: Untuk navigasi ke halaman detail film.
 
 ## Konsep Utama yang Diterapkan
 
-- **Debounce**: Diterapkan dengan Lodash untuk menunda query pencarian, mengurangi panggilan API yang tidak perlu dan meningkatkan responsivitas aplikasi.
+- **Debounce**: Diterapkan dengan Lodash untuk menunda query pencarian, mengurangi panggilan fungsi yang tidak perlu dan meningkatkan responsivitas aplikasi.
 - **Custom Hooks**: Membuat `useSearchPosts` dan `useFilmDetail` untuk mengelola state, panggilan API, dan logika filter, mendukung reusability dan pemisahan tanggung jawab.
 - **Container-Presenter Pattern**: Memisahkan logika (di `SearchContainer` dan `FilmDetailContainer`) dari tampilan (di `SearchPresenter` dan `FilmDetailPresenter`) untuk kemudahan maintenance.
 - **Facade Pattern**: Digunakan dengan `apiClient` untuk menyederhanakan konfigurasi Axios dan interaksi API.
@@ -81,7 +81,7 @@ rebuild-rinema/
 │   ├── index.html
 │   └── favicon.ico
 ├── src/
-│   ├── api/              # Konfigurasi client API
+│   ├── api/              # Simulasi client API dengan data lokal
 │   ├── components/
 │   │   ├── Search/       # Komponen pencarian
 │   │   │   ├── SearchContainer.jsx
@@ -93,6 +93,8 @@ rebuild-rinema/
 │   │   ├── useSearchPosts.js
 │   │   └── useFilmDetail.js
 │   ├── App.jsx           # Komponen utama App dengan routing
+│   ├── films.json        # file JSON film
+│   ├── genres.json       # file JSON genre
 │   ├── index.jsx         # Titik masuk aplikasi
 │   ├── index.css         # Style global
 │   ├── tailwind.config.js # Konfigurasi Tailwind
@@ -113,7 +115,7 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE.txt), yang memungkinkan p
 ## Penghargaan
 
 - Dibangun dan terinspirasi dari aplikasi web buatan saya, Rinema (https://rinemaa.paramadina.ac.id).
-- Data API bersumber dari API Rinema yang saya kembangkan.
+- Data bersumber dari file JSON lokal yang meniru struktur API Rinema buatan saya.
 
 ## Screenshot
 
@@ -123,9 +125,9 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE.txt), yang memungkinkan p
 /DetailFilm
 ![image](https://github.com/user-attachments/assets/88347f26-f72d-41cf-aa8b-277b6c21d224)
 
-
 ## Rencana Peningkatan
 
-- Tambah pagination untuk daftar film yang panjang.
+- Integrasi API Sesungguhnya: Mengganti data lokal dengan panggilan API ke endpoint Rinema yang sebenarnya.
+- Tambahkan pagination untuk daftar film yang panjang.
 - Tingkatkan halaman detail film dengan fitur interaktif (misalnya, pengiriman rating).
 - Perbaiki penanganan error dengan pesan yang lebih ramah pengguna.
