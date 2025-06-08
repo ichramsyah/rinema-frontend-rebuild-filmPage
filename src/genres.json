@@ -1,0 +1,48 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "nama": "Horror"
+    },
+    {
+      "id": 2,
+      "nama": "Action"
+    },
+    {
+      "id": 3,
+      "nama": "Comedy"
+    },
+    {
+      "id": 4,
+      "nama": "Drama"
+    },
+    {
+      "id": 5,
+      "nama": "Animation"
+    },
+    {
+      "id": 6,
+      "nama": "Fantasy"
+    },
+    {
+      "id": 7,
+      "nama": "Family"
+    },
+    {
+      "id": 8,
+      "nama": "Mystery"
+    },
+    {
+      "id": 9,
+      "nama": "Romance"
+    },
+    {
+      "id": 10,
+      "nama": "Thriller"
+    },
+    {
+      "id": 11,
+      "nama": "Religy"
+    }
+  ]
+}

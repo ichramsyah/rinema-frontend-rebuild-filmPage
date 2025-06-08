@@ -8,7 +8,7 @@ function FilmDetailPresenter({ film, loading, error }) {
   return (
     <div className="max-w-5xl mx-auto text-white">
       <Link to="/" className="text-yellow-400 hover:underline text-sm mb-4 inline-block">
-        &larr; Kembali ke Daftar Film
+        ← Kembali ke Daftar Film
       </Link>
       <div className="flex flex-col sm:flex-row gap-6 bg-gray-800 p-6 rounded-lg shadow">
         <img src={film.poster_url} alt={film.judul} className="w-full sm:w-64 h-auto object-cover rounded" />

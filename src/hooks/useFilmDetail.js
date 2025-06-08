@@ -11,8 +11,8 @@ function useFilmDetail(filmId) {
       if (!filmId) return;
       setLoading(true);
       try {
-        const response = await apiClient.get(`/${filmId}`);
-        setFilm(response.data.data || null);
+        const response = await apiClient.getFilmById(filmId);
+        setFilm(response.data);
         setError(null);
       } catch (err) {
         setError('Gagal mengambil detail film. Coba lagi nanti.');

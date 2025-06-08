@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 function SearchPresenter({ query, results, loading, error, genres, sortMode, selectedGenreId, handleInputChange, handleSortChange, handleGenreChange }) {
   const sortedGenres = [...genres].sort((a, b) => a.nama.localeCompare(b.nama));
 
+  // Debugging: Periksa isi results
+  console.log('Results in SearchPresenter:', results);
+
   return (
     <div className="max-w-6xl mx-auto text-white">
       {/* Filter & Sort Controls */}
@@ -24,7 +27,11 @@ function SearchPresenter({ query, results, loading, error, genres, sortMode, sel
 
       {/* Genre Filter */}
       <div className="mb-6 flex flex-wrap gap-2">
-        <button onClick={() => handleGenreChange({ target: { value: '' } })} className={`px-4 py-2 rounded-full text-sm hover:bg-yellow-400 transition-all  ${selectedGenreId === '' ? 'bg-yellow-400 text-black' : 'bg-gray-700'}`}>
+        <button
+          onClick={() => handleGenreChange({ target: { value: '' } })}
+          className={`px-4 py-2 rounded-full text-sm hover:bg-yellow-400 transition-all ${selectedGenreId === '' ? 'bg-yellow-400 text-black' : 'bg-gray-700'}`}
+          key="all-genres"
+        >
           Semua Genre
         </button>
         {sortedGenres.map((genre) => (

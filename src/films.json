@@ -1,0 +1,588 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "judul": "Pabrik Gula Uncut",
+      "produser": "Manoj Punjabi",
+      "sutradara": "Awi Suryadi",
+      "penulis": "Lele Laila",
+      "produksi": "MD Pictures",
+      "pemeran": "Arbani Yasiz, Ersya Aurelia, Erika Carlina, Bukie B. Mansyur, Wavi Zihan, Moch. Arif Alfiansyah, Benidictus Siregar, Sadana Agung, Yono Bakrie, Vonny Anggraini, Budi Ros, Dewi Pakis, Azela Putri",
+      "tahun_rilis": "2025-04-17",
+      "durasi": 133,
+      "usia": "21+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/174166356263054_290x426.jpg",
+      "trailer_url": "https://www.youtube.com/embed/Uvp2ZBK7Vnc?si=ovO2Q8Me_qXX_7Kz",
+      "sinopsis": "Endah (Ersya Aurelia), Fadhil (Arbani Yasiz), Dwi (Moch. Arif Alfiansyah), Hendra (Bukie B. Mansyur), Wati (Wavi Zihan), Ningsih (Erika Carlina), dan Franky (Benidictus Siregar) berangkat bersama puluhan orang lainnya ke sebuah pabrik gula untuk menjadi buruh musiman. Setiap tahun pabrik gula mempekerjakan orang-orang dari desa sekitar untuk mempercepat proses penggilingan tebu di musim panen. Awalnya semua berjalan wajar tanpa keanehan, sampai suatu malam, Endah terbangun dan keluar dari mes/loji tempatnya menginap demi membuntuti sosok misterius. Sejak kejadian malam itu, para buruh mulai mengalami teror yang terus meningkat, mulai dari kecelakaan kerja yang menimpa salah satu dari mereka, sampai tewasnya seorang buruh secara mengenaskan di sumur belakang. Kemudian terungkap bahwa pabrik tersebut berdampingan dengan kerajaan demit, sesuatu telah membuat para demit marah sehingga sekarang mereka menuntut nyawa para buruh.",
+      "created_at": "2025-04-17 23:43:57",
+      "updated_at": "2025-04-17 23:43:57",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        }
+      ],
+      "average_rating": 7.9,
+      "ratings_count": 2
+    },
+    {
+      "id": 2,
+      "judul": "Qodrat 2",
+      "produser": "Linda Gozali",
+      "sutradara": "Charles Gozali",
+      "penulis": "Asaf Antariksa, Gea Rexy, Charles Gozali",
+      "produksi": "Magma Entertainment, Rapi Films",
+      "pemeran": "Vino G. Bastian, Acha Septriasa, Della Dartyan, Donny Alamsyah, Jason Bangun",
+      "tahun_rilis": "2025-04-17",
+      "durasi": 115,
+      "usia": "13+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/174097486549169_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/R5oapQZW8Ao?si=aW-XMpgZj8aO8iBv",
+      "sinopsis": "Setelah pertempuran melawan Assuala, Qodrat (Vino G. Bastian) melanjutkan perjalanannya mencari Azizah (Acha Septriasa), istrinya yang ternyata menderita depresi karena menjual dirinya pada Assuala demi menyelamatkan Alif (Jason Bangun). Sempat dirawat di Rumah Sakit Jiwa, Azizah ternyata sudah keluar dan bekerja di sebuah pabrik pemintalan yang justru tengah dirundung masalah atas serangkaian kematian misterius yang terjadi pada para pekerjanya, akibat ritual iblis yang dilakukan pemilik pabrik demi sebuah tindak pesugihan. Mengetahui hal ini, Qodrat pun berusaha menyelamatkan Azizah dengan segala cara, apalagi ketika semua teror ini memuncak ke sebuah serangan kesurupan massal di mana iblis sekali lagi siap untuk menyerang, menunggu Qodrat takluk ke perangkap mereka.",
+      "created_at": "2025-04-17 23:45:46",
+      "updated_at": "2025-04-17 23:45:46",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 2,
+          "nama": "Action"
+        }
+      ],
+      "average_rating": 8,
+      "ratings_count": 5
+    },
+    {
+      "id": 3,
+      "judul": "Komang",
+      "produser": "Chand Parwez Servia, Riza, Mithu Nisar",
+      "sutradara": "Naya Anindita",
+      "penulis": "Evelyn Afnilia",
+      "produksi": "Starvision",
+      "pemeran": "Aurora Ribero, Kiesha Alvaro, Cut Mini, Arie Kriting, Mathias Muchus, Ayu Laksmi, Adzando Davema, Neneng Risma, Rhesa Putri, Arman Dewarti, Ciaxman, Raim Laode, Anggika Bolsterli, Pevita Pearce, Afgan",
+      "tahun_rilis": "2025-04-17",
+      "durasi": 107,
+      "usia": "13+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/173865629496832_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/BpvnEiG9bTE?si=uLc6uZjgPsAVpkx0",
+      "sinopsis": "Takdir mempertemukan Ode (Kiesha Alvaro), pemuda Buton yang punya mimpi besar, dengan Ade (Aurora Ribero), perantau dari Bali. Sebagaimana dua insan yang sedang jatuh cinta, mereka percaya kelak takdir akan mempersatukannya. Namun perjalanan mereka terhambat dengan kehadiran pria lain yang seiman dengan Ade, dan Ode harus ke Jakarta untuk mengejar mimpinya. Akankah Ode dan Ade dipersatukan takdir?",
+      "created_at": "2025-04-17 23:48:19",
+      "updated_at": "2025-04-17 23:48:19",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        }
+      ],
+      "average_rating": 7.6,
+      "ratings_count": 2
+    },
+    {
+      "id": 4,
+      "judul": "Jumbo",
+      "produser": "Anggia Kharisma, Novia Puspa Sari",
+      "sutradara": "Ryan Adriandhy",
+      "penulis": "Ryan Adriandhy, Widya Arifianti",
+      "produksi": "Visinema Studios",
+      "pemeran": "Prince Poetiray, Quinn Salman, Yusuf Ozkan, Graciella Abigai, M. Adhiyat, Angga Yunanda, Bunga Citra Lestari, Ariel “NOAH”, Cinta Laura Kiehl",
+      "tahun_rilis": "2025-04-17",
+      "durasi": 102,
+      "usia": "SU",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/173976502422551_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/yMqDgbZmBdk?si=Cy4jAeniWlV2ZAb6",
+      "sinopsis": "Don (Prince Poetiray), anak gemuk yang sering diolok-olok dengan panggilan \"Jumbo\" ingin membalas perbuatan anak yang suka merundungnya, tapi sesosok arwah bernama Meri (Quinn Salman) meminta pertolongan Don untuk disatukan kembali dengan makam keluarganya yang dirusak.",
+      "created_at": "2025-04-17 23:51:04",
+      "updated_at": "2025-04-17 23:51:04",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 5,
+          "nama": "Animation"
+        },
+        {
+          "id": 6,
+          "nama": "Fantasy"
+        }
+      ],
+      "average_rating": 8.5,
+      "ratings_count": 4
+    },
+    {
+      "id": 5,
+      "judul": "Rumah untuk Alie",
+      "produser": "Frederica",
+      "sutradara": "Herwin Novianto",
+      "penulis": "Lottati Mulyani",
+      "produksi": "Falcon Pictures",
+      "pemeran": "Anantya Kirana, Rizky Hanggono, Tika Bravani, Dito Darmawan, Rafly Altama Putra, Andryan Didi, Faris Fadjar Munggaran, Sheila Kusnadi, Ully Triani",
+      "tahun_rilis": "2025-04-19",
+      "durasi": 95,
+      "usia": "13+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/174159938430137_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/Cy5aYBBE8G4?si=-MoiXcXM-Mt0L0lf",
+      "sinopsis": "Alie (Anantya Kirana), Bungsu dari lima bersaudara dan satu-satunya anak perempuan, yang seharusnya disayangi, ternyata menerima hukuman, atas kematian ibu mereka. Sudah tak terhitung berapa luka di tubuh Alie karena perundungan yang dilakukan ayah dan saudara-saudaranya. Luka itu terkadang cepat kering tapi bukan sembuh. Di sudut hati Alie, ada luka yang karena cacian, makian dari ayah dan saudaranya. Tapi sungguh, Alie tak bisa membenci mereka. Terkadang kekecewaan karena kehilangan sesuatu yang di cintai, seseorang akan melukai pihak lain untuk menutupi lukanya. Alie hanya sedikit meminta belas kasihan keluarganya untuk di terima.",
+      "created_at": "2025-04-19 22:07:38",
+      "updated_at": "2025-04-19 22:20:13",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 7,
+          "nama": "Family"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 6,
+      "judul": "Agak Laen",
+      "produser": "Dipa Andika, Ernest Prakasa",
+      "sutradara": "Muhadkly Acho",
+      "penulis": "Muhadkly Acho",
+      "produksi": "Imajinari, Jagartha, Trinity Entertainment Network, A&Z Films, Legacy Pictures",
+      "pemeran": "Bene Dion Rajagukguk, Indra Jegel, Boris Bokir, Oki Rengga, Tissa Biani, Indah Permatasari, Arie Kriting, Mamat Alkatiri, Sadana Agung Sulistya.",
+      "tahun_rilis": "2025-04-19",
+      "durasi": 119,
+      "usia": "13+",
+      "poster_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuqltFKUPaZtIFLkqQxF-5Es_9GRm7eQj0A&s",
+      "trailer_url": "https://www.youtube.com/embed/y7tZL3zjE_c?si=LLjgJVWwVXuPb76h",
+      "sinopsis": "Empat sahabat Bene, Jegel, Boris, dan Oki bekerja sebagai penjaga rumah hantu di sebuah pasar malam yang sepi pengunjung. Untuk menyelamatkan usaha mereka dari kebangkrutan, mereka mencari cara baru untuk menakut-nakuti pengunjung. Namun, upaya mereka berujung pada kematian seorang pengunjung. Dalam kepanikan, mereka mengubur korban di dalam rumah hantu. Tak disangka, arwah korban gentayangan, membuat rumah hantu menjadi lebih menyeramkan dan viral. Ketika polisi mulai menyelidiki, keempat sahabat ini terlibat dalam berbagai persekongkolan konyol untuk menutupi kejadian sebenarnya .",
+      "created_at": "2025-04-19 22:37:28",
+      "updated_at": "2025-04-19 22:37:28",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 3,
+          "nama": "Comedy"
+        },
+        {
+          "id": 8,
+          "nama": "Mystery"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 7,
+      "judul": "Ipar Adalah Maut",
+      "produser": "Manoj Punjabi",
+      "sutradara": "Hanung Bramantyo",
+      "penulis": "Oka Aurora",
+      "produksi": "MD Pictures dan Dapur Film",
+      "pemeran": "Michelle Ziudith, Deva Mahenra, Davina Karamoy, Nyimas Ratu Rafa, Devina Aureel, Adam Farrel, Dewi Irawan, Toby Armstrong, Akbarry Noor, Asri Welas",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 131,
+      "usia": "13+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/7/79/Poster_IAM.jpg",
+      "trailer_url": "https://www.youtube.com/embed/9M3VN0J5ffM?si=JAe-iANN6XrLlXMH",
+      "sinopsis": "Film ini mengisahkan kehidupan rumah tangga Nisa (Michelle Ziudith) dan Aris (Deva Mahenra) yang awalnya harmonis bersama putri mereka, Raya. Namun, keharmonisan itu terganggu ketika Rani (Davina Karamoy), adik kandung Nisa, tinggal bersama mereka. Tanpa disadari, Aris dan Rani terlibat dalam hubungan terlarang, menghancurkan kepercayaan dan kebahagiaan keluarga tersebut.",
+      "created_at": "2025-04-20 14:08:53",
+      "updated_at": "2025-04-20 14:08:53",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 9,
+          "nama": "Romance"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 8,
+      "judul": "Vina: Sebelum 7 Hari",
+      "produser": "Dheeraj Kalwani",
+      "sutradara": "Anggy Umbara",
+      "penulis": "Bounty Umbara, Dirmawan Hatta",
+      "produksi": "Dee Company, Umbara Brothers Film, Legacy Pictures",
+      "pemeran": "ayla D. Purnama, Lydia Kandou, Gisellma Firmansyah, Pritt Timothy, Delia Husein, Yusuf Mahardika, Fahad Haydra, Septian Dwi Cahyo, Aruma Khadijah, Ozan Arkananta, Niniek Arum, Cinta Dewi, Rio Maland, Risma Nilawati, Alvin Adam, Eduward Manalu, Firman Ferdiansyah, Arya Panji",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 100,
+      "usia": "13+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/c/cc/Poster_Film_Vina.jpg",
+      "trailer_url": "https://www.youtube.com/embed/jrzqZCcCD1U?si=FSMU5Tc1NWxyq8l-",
+      "sinopsis": "Film ini diangkat dari kisah nyata pembunuhan tragis Vina Dewi Arsita dan kekasihnya, Eky, di Cirebon pada tahun 2016. Awalnya, kematian mereka diduga akibat kecelakaan sepeda motor tunggal. Namun, keluarga Vina mencurigai adanya kejanggalan karena kondisi jenazah yang tidak wajar. Enam hari setelah kematian mereka, seorang teman Vina mengaku kerasukan arwah Vina dan mengungkapkan bahwa Vina dan Eky diserang oleh geng motor di jalan layang Talun. Vina mengalami penyiksaan dan kekerasan seksual sebelum akhirnya dibunuh. Salah satu pelaku diketahui adalah Egi, yang pernah memiliki perasaan terhadap Vina.",
+      "created_at": "2025-04-20 14:13:23",
+      "updated_at": "2025-04-20 14:13:23",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 10,
+          "nama": "Thriller"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 9,
+      "judul": "KKN di Desa Penari",
+      "produser": "Manoj Punjabi",
+      "sutradara": "Awi Suryadi",
+      "penulis": "Lele Laila, Gerald Mamahit",
+      "produksi": "MD Pictures, Pichouse Films",
+      "pemeran": "Tissa Biani, Adinda Thomas, Achmad Megantara, Aghniny Haque, Calvin Jeremy, Fajar Nugraha",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 130,
+      "usia": "13+",
+      "poster_url": "https://cdn1-production-images-kly.akamaized.net/WTuN_5mVx94QTyw9lxHn6WEHUUU=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3078301/original/067534300_1584412975-KKN_Di_Desa_Penari_1.jpg",
+      "trailer_url": "https://www.youtube.com/embed/jtDRXPTZT-M?si=6xSM-JVVHHWzHWtp\" title=\"YouTube video player",
+      "sinopsis": "Film ini diadaptasi dari cerita viral karya SimpleMan. Berlatar tahun 2009, enam mahasiswa Nur, Widya, Ayu, Bima, Anton, dan Wahyu melaksanakan program Kuliah Kerja Nyata (KKN) di sebuah desa terpencil di Jawa Timur. Tanpa mereka sadari, desa tersebut menyimpan misteri dan larangan yang tidak boleh dilanggar. Kepala desa, Pak Prabu, memperingatkan mereka untuk tidak melewati gerbang terlarang yang mengarah ke hutan Tapak Tilas. Namun, pelanggaran terhadap larangan tersebut memicu serangkaian kejadian supranatural yang mengancam keselamatan mereka. Salah satu entitas gaib yang menghantui mereka adalah Badarawuhi, seorang penari misterius yang memiliki kekuatan mistis. Ketegangan meningkat saat satu per satu dari mereka mulai mengalami gangguan dan perubahan perilaku yang mengarah pada tragedi.",
+      "created_at": "2025-04-20 14:23:32",
+      "updated_at": "2025-04-20 14:25:38",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 8,
+          "nama": "Mystery"
+        },
+        {
+          "id": 10,
+          "nama": "Thriller"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 10,
+      "judul": "Pengepungan di Bukit Duri",
+      "produser": "Tia Hasibuan, Joko Anwar",
+      "sutradara": "Joko Anwar",
+      "penulis": "Joko Anwar",
+      "produksi": "Amazon MGM Studios, Come and See Pictures",
+      "pemeran": "Morgan Oey, Omara Esteghlal, Hana Pitrashata Malasan, Endy Arfian, Fatih Unru",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 118,
+      "usia": "17+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/173985180239621_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/OBbE4wK47ts?si=6GBGip2o5YQwoCZz",
+      "sinopsis": "Edwin (Morgan Oey) berjanji pada kakaknya sebelum meninggal untuk menemukan anak kakaknya yang hilang. Pencarian Edwin membawanya menjadi guru di SMA Duri, sekolah untuk anak-anak bermasalah. Di sana, Edwin menghadapi murid-murid paling beringas sambil mencari keponakannya. Ketika akhirnya ia menemukan sang keponakan, kerusuhan pecah di seluruh kota dan mereka terjebak di sekolah, melawan anak-anak brutal yang kini mengincar nyawa mereka.",
+      "created_at": "2025-04-20 14:28:53",
+      "updated_at": "2025-04-20 14:28:53",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 10,
+          "nama": "Thriller"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 11,
+      "judul": "Muslihat",
+      "produser": "Bugie",
+      "sutradara": "Chairun Nissa",
+      "penulis": "Evelyn Afnilia",
+      "produksi": "IM Pictures",
+      "pemeran": "Edward Akbar, Asmara Abigail, Tata Janeeta, Ajeng Giona, Ence Bagus, Fatih Unru",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 90,
+      "usia": "17+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/17410692941146_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/Se_bk_AXnZE?si=WLfuyy9jWSzDAKmb",
+      "sinopsis": "Saat pindah ke panti asuhan terpencil, JIHAN (Asmara Abigail) dan adiknya, SYAFA (Ajeng Giona) berharap memulai hidup baru. Namun satu persatu keanehan mulai muncul. Mulai dari munculnya SHINTA (Tata Janeeta), perempuan misterius yang sering bersenandung kidung-kidung aneh, perkenalan dengan JUNA (Fatih Unru), seorang pemuda di pasar malam, hingga rangkaian teror yang menyerang RAHMA (Jacqueline Immanuela) dan membuatnya kerasukan hingga meninggal. GUSTAF (Edward Akbar), penjaga panti mencoba mengusir kekuatan jahat dengan ruqyah. Namun Jihan khawatir itu justru membahayakan Syafa. Semakin mereka berusaha mengusir kekuatan jahat itu, semakin mereka bertanya—apakah mereka sungguh telah melawan, atau justru telah terperangkap muslihat iblis?",
+      "created_at": "2025-04-20 14:36:48",
+      "updated_at": "2025-04-20 14:36:48",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 11,
+          "nama": "Religy"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 12,
+      "judul": "Sah! Katanya...",
+      "produser": "Raam Punjabi",
+      "sutradara": "Sidharta Tata, Loeloe Hendra",
+      "penulis": "Dirmawan Hatta, Loeloe Hendra, Sidharta Tata",
+      "produksi": "MVP Pictures",
+      "pemeran": "Nadya Arina, Dimas Anggara, Calvin Jeremy, Qomaruddin, Della Dartyan, Rahmet Ababil",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 124,
+      "usia": "13+",
+      "poster_url": "https://media.21cineplex.com/webcontent/gallery/pictures/174296112388554_287x421.jpg",
+      "trailer_url": "https://www.youtube.com/embed/JyFvsO_33yU?si=52mGN4UBd_GpOiRF",
+      "sinopsis": "Marni (Nadya Arina) yang tengah berduka karena kematian mendadak Dipo, ayahnya mendapati sebuah kenyataan lain yang mengejutkan. Melalui paman dan Ibunya, Mar mengetahui wasiat dari sang Ayah tentang keinginan terakhir yang sangat berat untuk dijalankan. Mar harus menikah di depan jenazah dengan lelaki pilihan Ayahnya, yaitu Marno (Dimas Anggara), anak dari sahabatnya. Mar mengetahui bahwa sang ayah mempunyai hutang dengan jumlah yang sangat besar, hutang itu bisa terselesaikan jika Mar menikahi Marno. Berat bagi Mar untuk menjalankan pernikahan itu karena sebenarnya Mar sudah mempunyai pacar bernama ADI (Calvin Jeremy). Mar kini berada dalam dilema. Apakah ia harus mempertahankan kisah cintanya atau berbakti kepada ayah dan menyelamatkan keluarganya?",
+      "created_at": "2025-04-20 14:39:34",
+      "updated_at": "2025-04-20 14:39:34",
+      "genres": [
+        {
+          "id": 3,
+          "nama": "Comedy"
+        },
+        {
+          "id": 4,
+          "nama": "Drama"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 13,
+      "judul": "Home Sweet Loan",
+      "produser": "Cristian Imanuell",
+      "sutradara": "Sabrina Rochelle Kalangie",
+      "penulis": "Sabrina Rochelle Kalangie, Widya Arifiant",
+      "produksi": "Visinema Pictures, Legacy Pictures.",
+      "pemeran": "Yunita Siregar sebagai Kaluna, Derby Romero sebagai Danan, Risty Tagor sebagai Tanish, Fita Anggriani sebagai Miya, Ayushita Nugraha sebagai Kamala, Ariyo Wahab sebagai Kanendra, Wafda Saifan Lubis sebagai Hansa, Budi Ros sebagai Bapak Kaluna, Daisy Lantang sebagai Ibu Kaluna, Ina Marika sebagai Natya, Ar Barrani Lintang sebagai Kaivan, Rangga Riantiarno sebagai Kuncoro, Jesslyn Alena Zain sebagai Lala, Naura Hakim sebagai Lidya, Rinni Ruyono sebagai Mama Hansa, Ucita Pohan sebagai Bu Sonia, Sari Nila sebagai Feni, Akbarry Noor sebagai Taswin, Sulthan Yassar sebagai Fotografer, Raja Ghifar sebagai Marketing Agent Rumah Contoh, Indrayana Bi Ratni sebagai Bu Ratni",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 112,
+      "usia": "SU",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/0/0f/Poster_Home_Sweet_Loan.jpg",
+      "trailer_url": "https://www.youtube.com/embed/rWsnLS0Q7G0?si=Ea_Ft7au2q2t5PYa",
+      "sinopsis": "Kaluna (Yunita Siregar), seorang pegawai bagian umum, bermimpi membeli rumah demi keluar dari rumah dengan tiga kepala keluarga—ayah dan kedua kakaknya. Namun, gajinya yang tak pernah menyentuh dua digit membuatnya merasa memiliki rumah idaman adalah impian yang jauh dari jangkauan. Dengan modal usaha hemat, kerja sampingan sebagai model bibir, dan pinjaman kantor, Kaluna bersama tiga sahabatnya berjuang menemukan rumah yang sesuai. Di tengah perjuangannya, Kaluna dihadapkan pada keputusan finansial keluarga yang sulit, memaksanya memilih antara memperjuangkan rumah atau keluarganya.",
+      "created_at": "2025-04-20 17:31:42",
+      "updated_at": "2025-04-21 22:16:50",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 7,
+          "nama": "Family"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 14,
+      "judul": "Kang Mak from Pee Mak",
+      "produser": "Frederica",
+      "sutradara": "Herwin Novianto",
+      "penulis": "Alim Sudio",
+      "produksi": "Falcon Pictures",
+      "pemeran": "Vino G. Bastian sebagai Makmur (Kang Mak), Marsha Timothy sebagai Sari (Nak), Indro Warkop, Tora Sudiro, Indra Jegel, Rigen Rakelna, Andre Taulany, Aming, Jirayut, TJ Ruth, Tarzan (Toto Maryadi)",
+      "tahun_rilis": "2025-04-20",
+      "durasi": 122,
+      "usia": "13+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/thumb/c/ce/Poster_Kang_Mak.jpg/220px-Poster_Kang_Mak.jpg",
+      "trailer_url": "https://www.youtube.com/embed/T8m-IZhCi7M?si=MxARKVQh5xMrkkVb",
+      "sinopsis": "Kang Mak from Pee Mak adalah film horor komedi Indonesia yang diadaptasi dari film Thailand berjudul Pee Mak (2013). Cerita mengikuti Makmur (Vino G. Bastian), seorang tentara yang kembali dari medan perang untuk menemui istrinya, Sari (Marsha Timothy), yang sedang hamil tua. Namun, ia terkejut mengetahui bahwa Sari telah meninggal dan menjadi hantu. Makmur dan teman-temannya berusaha mengungkap misteri ini sambil menghadapi berbagai situasi lucu dan menegangkan",
+      "created_at": "2025-04-20 17:38:07",
+      "updated_at": "2025-04-21 22:18:36",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 7,
+          "nama": "Family"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 15,
+      "judul": "Air Mata di Ujung Sajadah",
+      "produser": "Rony Irawan dan Nafa Urbach",
+      "sutradara": "Key Mangunsong",
+      "penulis": "Titien Watimena",
+      "produksi": "Beehave Pictures, Multi Buana Kresindo Production",
+      "pemeran": "Titi Kamal, Jenny Rachman, Fedi Nuril, Citra Kirana",
+      "tahun_rilis": "2025-04-21",
+      "durasi": 105,
+      "usia": "13+",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwMWVkNWUtYjhlYS00MTA5LTk5ZDUtNWNlODEzNTllNjVkXkEyXkFqcGc@._V1_.jpg",
+      "trailer_url": "https://www.youtube.com/embed/kxv7xyQ5bbI?si=8Qa0_uY5mmEvdqEx",
+      "sinopsis": "Tujuh tahun berlalu, Aqilla baru mengetahui bahwa anaknya yakni Baskara, ternyata masih hidup dan diasuh oleh Arif dan Yumna, pasangan yang hanya memiliki satu harapan: memiliki seorang anak. Aqilla bertolak dari kehidupannya yang hampa di Eropa menuju Kota Solo untuk menjemput masa depan barunya. Akankah Aqilla tega merenggut Baskara yang sudah dibesarkan oleh Arif dan Yumna selama bertahun-tahun? Memang darah dan daging Aqilla ada dalam diri Baskara, namun di sana juga ada keringat dan airmata Yumna. Siapakah yang lebih berhak menjadi ibu dari Baskara?",
+      "created_at": "2025-04-21 14:45:44",
+      "updated_at": "2025-04-21 22:20:38",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 16,
+      "judul": "Sewu Dino",
+      "produser": "MANOJ PUNJABI",
+      "sutradara": "KIMO STAMBOEL",
+      "penulis": "Agasyah Karim dan Khalid Khasogi",
+      "produksi": "MD Pictures",
+      "pemeran": "Mikha Tambayong, Gisellma Firmansyah, Rio Dewanto, Marhino Lio, Givina Lukita Dewi, Agla Artalidia, Pritt Timothy, Karina Lionardi",
+      "tahun_rilis": "2025-04-21",
+      "durasi": 121,
+      "usia": "13+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/0/0c/Sewu_Dino.jpg",
+      "trailer_url": "https://www.youtube.com/embed/12sXNFbQa6I?si=yaWbSJHzSTizIS3N",
+      "sinopsis": "Ditengah kesulitan ekonomi, Sri diterima bekerja untuk keluarga Atmojo dengan bayaran yang tinggi, karena keunikan yang ia miliki, yaitu lahir pada hari Jumat Kliwon. Bersama Erna dan Dini, mereka dibawa ke sebuah gubuk tersembunyi di tengah hutan. Di gubuk tersebut, Sri, Erna, dan Dini bertugas untuk memandikan Dela Atmojo, cucu dari Mbah Karsa Atmojo yang tidak sadarkan diri karena kutukan santet Sewu Dino, salah satu santet yang paling mengerikan. Mereka tidak bisa lari dari gubuk tersebut karena terikat perjanjian mistis dengan Mbah Karsa Atmojo, dan mereka harus selesaikan ritual sampai hari ke 1000. Jika mela",
+      "created_at": "2025-04-21 21:41:45",
+      "updated_at": "2025-04-21 22:24:24",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        },
+        {
+          "id": 8,
+          "nama": "Mystery"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 17,
+      "judul": "Jatuh Cinta Seperti Di Film-Film",
+      "produser": "Ernest Prakasa",
+      "sutradara": "Yandy Laurens",
+      "penulis": "Yandy Laurens",
+      "produksi": "Imajinari Jagartha Trinity Entertainment cerita Film",
+      "pemeran": "Ringgo Agus Rahman, Nirina Zubir, Alex Abbad, Sheila Dara, Dion Wiyoko, Julie Estelle",
+      "tahun_rilis": "2025-04-21",
+      "durasi": 118,
+      "usia": "13+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/0/0c/Poster_Jatuh_Cinta_Seperti_di_Film-Film.jpg",
+      "trailer_url": "https://www.youtube.com/embed/F6jPobzz-ag?si=1fZ82qR9QMJTiFoM",
+      "sinopsis": "Bagus, seorang penulis skenario, bertemu kembali dengan teman SMA dan pujaan hatinya, Hana, yang masih berduka karena kehilangan suaminya. Dia ingin meyakinkan Hana untuk jatuh cinta sekali lagi, seperti di film-film.",
+      "created_at": "2025-04-21 21:48:59",
+      "updated_at": "2025-04-21 22:25:23",
+      "genres": [
+        {
+          "id": 3,
+          "nama": "Comedy"
+        },
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 9,
+          "nama": "Romance"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 18,
+      "judul": "Diambang Kematian",
+      "produser": "Raam Punjabi",
+      "sutradara": "Azhar Kinoi Lubis",
+      "penulis": "Erwanto Alphadullah",
+      "produksi": "MVP Pictures",
+      "pemeran": "Rifnu Wikana, Kinaryosih, Taskya Namya, Wafda Saifan",
+      "tahun_rilis": "2025-04-21",
+      "durasi": 97,
+      "usia": "17+",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/id/b/ba/Poster_DAK.jpg",
+      "trailer_url": "https://www.youtube.com/embed/KO8sze1ilNU?si=WY9su2vYXPY9O2X8",
+      "sinopsis": "Hidup seorang perempuan muda bernama Nadia berada di ambang kematian. Hal ini bisa terjadi karena Nadia ternyata menjadi tumbal dari pesugihan yang dilakukan oleh ayahnya sendiri. Pesugihan tersebut ternyata meminta tumbal setiap 10 tahun sekali. Tumbal pertama terjadi pada tahun 2002 yaitu ibunya meninggal dunia dengan cara yang mengenaskan. Sepuluh tahun kemudian, kakak kandung dari Nadia yang bernama Yoga juga bernasib sama seperti ibunya.",
+      "created_at": "2025-04-21 21:53:20",
+      "updated_at": "2025-04-21 22:26:08",
+      "genres": [
+        {
+          "id": 1,
+          "nama": "Horror"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 19,
+      "judul": "Keluarga Cemara",
+      "produser": "Anggia Kharisma, Gina S. Noer",
+      "sutradara": "Yandy Laurens",
+      "penulis": "Arswendo Atmowiloto",
+      "produksi": "Visinema Pictures, Idesource Entertainment kaskus",
+      "pemeran": "Ringgo Agus Rahman, Nirina Zubir, Adhisty Zara, Widuri Putri, Ariyo Wahab, Asri Welas, Maudy Koesnadi, Gading Marten, Yasmin Jasem, Abdurachman Arif",
+      "tahun_rilis": "2025-04-21",
+      "durasi": 110,
+      "usia": "SU",
+      "poster_url": "https://gpu.id/data-gpu/images/uploads/book/dfc087c54e25ee814360c97e4f331523.jpg",
+      "trailer_url": "https://www.youtube.com/embed/sGaeDzD_3o0?si=6C6ka1Q3TkT9iVTD",
+      "sinopsis": "Sebuah keluarga inti yang tinggal di Jakarta harus menghadapi kenyataan bahwa harta benda mereka ludes akibat ditipu salah satu anggota keluarga besar mereka. Pindah ke desa di Kabupaten Bogor, Abah dan keluarga harus beradaptasi dengan segala ketidaknyamanan yang tak pernah dialami sebelumnya. Permasalahan datang silih berganti, tetapi keluarga ini tetap bertahan dalam keadaan gegar budaya.",
+      "created_at": "2025-04-21 22:04:39",
+      "updated_at": "2025-04-21 22:53:25",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 7,
+          "nama": "Family"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    },
+    {
+      "id": 20,
+      "judul": "Miracle in Cell No.7 - Indonesia",
+      "produser": "Frederica",
+      "sutradara": "Hanung Bramantyo",
+      "penulis": "Alim Sudio",
+      "produksi": "Falcon Pictures",
+      "pemeran": "Vino G. Bastian (Dodo Rozak), Graciella Abigail / Mawar De Jongh (Kartika), Indro Warkop, Tora Sudiro",
+      "tahun_rilis": "2025-04-22",
+      "durasi": 145,
+      "usia": "SU (Semua Umur)",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/92/Miracle_in_Cell_No._7_%282022_film%29.jpg",
+      "trailer_url": "https://www.youtube.com/embed/0uf6QUacVgs?si=tROOnaasb8AU1oQR",
+      "sinopsis": "Dodo Rozak, seorang pria dengan keterbatasan intelektual, dipenjara atas tuduhan palsu membunuh seorang gadis. Di penjara, ia membangun persahabatan dengan sesama narapidana yang membantu mewujudkan impian terakhirnya untuk bertemu putrinya, Kartika.",
+      "created_at": "2025-04-22 10:26:15",
+      "updated_at": "2025-04-22 10:26:15",
+      "genres": [
+        {
+          "id": 4,
+          "nama": "Drama"
+        },
+        {
+          "id": 7,
+          "nama": "Family"
+        }
+      ],
+      "average_rating": 0,
+      "ratings_count": 0
+    }
+  ]
+}
