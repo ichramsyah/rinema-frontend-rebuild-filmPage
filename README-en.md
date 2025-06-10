@@ -127,10 +127,10 @@ This project is licensed under the [MIT License](LICENSE.txt), allowing free use
 ## Screenshots
 
 /Film
-![image](https://github.com/user-attachments/assets/a0acccde-0dc5-4103-93d7-87a229e253b0)
+![image](https://github.com/user-attachments/assets/b2699085-a540-43aa-af23-b99c29a10b1a)
 
 /DetailFilm
-![image](https://github.com/user-attachments/assets/88347f26-f72d-41cf-aa8b-277b6c21d224)
+![image](https://github.com/user-attachments/assets/b42f8b96-f4e6-4120-934a-924e12da822d)
 
 ## Future Enhancements
 
