@@ -55,9 +55,12 @@ function SearchPresenter({ query, results, loading, error, genres, sortMode, sel
             <img src={film.poster_url} alt={film.judul} className="w-full h-72 object-cover" />
             <div className="p-4">
               <h3 className="text-xl font-semibold mb-1 text-yellow-300">{film.judul}</h3>
-              <p className="text-sm text-gray-300 mb-1">
-                <strong>Rating:</strong> {film.average_rating} ⭐ ({film.ratings_count})
-              </p>
+              <div className="flex items-center gap-4">
+                <p className="text-sm text-gray-300 mb-1">
+                  <strong>Rating:</strong> {film.average_rating} ⭐ ({film.ratings_count})
+                </p>
+              </div>
+
               <p className="text-sm text-gray-400 line-clamp-3 mb-2">{film.sinopsis}</p>
               <Link to={`/film/${film.id}`} className="text-yellow-400 hover:underline text-sm">
                 Lihat Detail

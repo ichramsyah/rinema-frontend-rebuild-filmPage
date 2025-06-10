@@ -8,12 +8,19 @@ function useFilmDetail(filmId) {
 
   useEffect(() => {
     const fetchFilmDetail = async () => {
-      if (!filmId) return;
+      if (!filmId) {
+        setLoading(false);
+        return;
+      }
       setLoading(true);
       try {
         const response = await apiClient.getFilmById(filmId);
-        setFilm(response.data);
-        setError(null);
+
+        // Log untuk melihat struktur asli dari API
+        console.log('API Response for single film:', response.data.data);
+
+        // Ambil objek film langsung dari response.data
+        setFilm(response.data.data);
       } catch (err) {
         setError('Gagal mengambil detail film. Coba lagi nanti.');
         console.error('Error fetching film detail:', err);
