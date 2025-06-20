@@ -1,3 +1,5 @@
+![image](public/project2.webp)
+
 # Rebuild Halaman Film Rinema
 
 [![Lisensi: MIT](https://img.shields.io/badge/Lisensi-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -122,10 +124,8 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE.txt), yang memungkinkan p
 /Film
 ![image](https://github.com/user-attachments/assets/b2699085-a540-43aa-af23-b99c29a10b1a)
 
-
 /DetailFilm
 ![image](https://github.com/user-attachments/assets/b42f8b96-f4e6-4120-934a-924e12da822d)
-
 
 ## Rencana Peningkatan
 
