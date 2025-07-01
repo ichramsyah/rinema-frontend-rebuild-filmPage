@@ -12,7 +12,7 @@ function Profile() {
   const handleLogout = () => {
     localStorage.removeItem('token');
     localStorage.removeItem('user');
-    window.location.href = '/';
+    window.location.href = '/'; // atau arahkan ke "/" jika tidak punya halaman login
   };
 
   useEffect(() => {
