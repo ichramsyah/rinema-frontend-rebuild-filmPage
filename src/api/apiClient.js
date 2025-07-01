@@ -1,43 +1,103 @@
-import axios from 'axios';
+// src/api/apiClient.js
+import filmsData from '../films.json';
+import genresData from '../genres.json';
 
-const axiosInstance = axios.create({
-  baseURL: 'https://rinemaa.paramadina.ac.id/api',
-  headers: {
-    'Content-Type': 'application/json',
-  },
-});
+const BASE_URL = 'https://rinemaa.paramadina.ac.id/api';
 
 const apiClient = {
-  getFilms: (sortMode = 'all') => {
-    let endpoint = '/films/allFilm';
-
-    switch (sortMode) {
-      case 'latest':
-        endpoint = '/films/latest';
-        break;
-      case 'oldest':
-        endpoint = '/films/oldest';
-        break;
-      case 'popular':
-        endpoint = '/films/popular';
-        break;
-      default:
-        endpoint = '/films/allFilm';
-    }
-
-    console.log(`Fetching films from: ${endpoint}`); // Log untuk debugging
-    return axiosInstance.get(endpoint);
+  getAllFilms: () => {
+    return Promise.resolve({ data: { data: filmsData.films } });
   },
-
   getAllGenres: () => {
-    return axiosInstance.get('/films/allGenre');
+    return Promise.resolve({ data: genresData.genres });
+  },
+  getFilmById: (id) => {
+    // Simulate API delay and find the film
+    const film = filmsData.films.find((f) => f.id.toString() === id.toString());
+    if (film) {
+      return Promise.resolve({ data: film });
+    } else {
+      return Promise.reject(new Error('Film not found'));
+    }
   },
 
-  getFilmById: (id) => {
-    if (!id) {
-      return Promise.reject(new Error('Film ID is required'));
+  login: async (email, password) => {
+    try {
+      const response = await fetch(`${BASE_URL}/login`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email, password }),
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || 'Login gagal');
+      }
+
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      throw error;
     }
-    return axiosInstance.get(`/films/${id}`);
+  },
+  getMyRatings: async (token) => {
+    try {
+      const response = await fetch(`${BASE_URL}/user/ratings`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: 'application/json',
+        },
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || 'Gagal mengambil data rating');
+      }
+
+      return await response.json();
+    } catch (error) {
+      throw error;
+    }
+  },
+  getUserProfile: async (token) => {
+    try {
+      const response = await fetch(`${BASE_URL}/user/profile`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: 'application/json',
+        },
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || 'Gagal mengambil data profil');
+      }
+
+      return await response.json();
+    } catch (error) {
+      throw error;
+    }
+  },
+  getMyReplies: async (token) => {
+    try {
+      const response = await fetch(`${BASE_URL}/user/forum-replies`, {
+        headers: {
+          Authorization: `Bearer ${token}`,
+          Accept: 'application/json',
+        },
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || 'Gagal mengambil data pesan');
+      }
+
+      return await response.json();
+    } catch (error) {
+      throw error;
+    }
   },
 };
 
