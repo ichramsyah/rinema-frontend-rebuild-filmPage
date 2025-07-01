@@ -31,7 +31,6 @@ function useFilmDetail(filmId) {
     };
     fetchFilmDetail();
   }, [filmId]);
-
   return { film, loading, error };
 }
 
